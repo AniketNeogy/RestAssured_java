@@ -1,0 +1,105 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "First_name": "Aniket",
+      "Last_name": "Neogy",
+      "Email": "aniket.neogy@imaginea.com",
+      "Designation": "Senior Engineer",
+      "phoneNumber": "8981873777",
+      "Address": [
+        {
+          "Permanent Address": {
+            "Address Line1": "My House, My Locality",
+            "Address Line2": "My Town",
+            "City": "Kolkata",
+            "State": "West Bengal"
+          }
+        },
+        {
+          "Temporary Address": {
+            "Address Line1": "Road Number 11, Mithila Nagar",
+            "Address Line2": "Banjara Hills",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Java",
+        "Selenium",
+        "Rest Assured",
+        "Python",
+        "Uipath"
+      ]
+    },
+    {
+      "id": 2,
+      "First_name": "Pooja",
+      "Last_name": "Patel",
+      "Email": "pooja.patel@imaginea.com",
+      "Designation": "Engineer",
+      "phoneNumber": "7861873678",
+      "Address": [
+        {
+          "Permanent Address": {
+            "Address Line1": "My House, My Locality",
+            "Address Line2": "My Town",
+            "City": "XYZ",
+            "State": "ABC"
+          }
+        },
+        {
+          "Temporary Address": {
+            "Address Line1": "Road Number 121, Gachibowli",
+            "Address Line2": "Indira Nagar",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Python",
+        "Devops",
+        "Unix",
+        "Perl"
+      ]
+    },
+    {
+      "First_name": "Purna",
+      "Last_name": "Jacobs",
+      "Email": "purna.jacobs@imaginea.com",
+      "Designation": "Architect",
+      "phoneNumber": "7960927654",
+      "Address": [
+        {
+          "Permanent Address": {
+            "Address Line1": "My House, My Locality",
+            "Address Line2": "My Town",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        },
+        {
+          "Temporary Address": {
+            "Address Line1": "ABC",
+            "Address Line2": "XYZ",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Python",
+        "Java",
+        "Data Sciences",
+        "AI",
+        "ML",
+        "Hadoop",
+        "Apache Spark",
+        "Scala"
+      ],
+      "id": 3
+    }
+  ]
+}
